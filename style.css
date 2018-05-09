@@ -1,0 +1,19 @@
+body{
+  font-family: 'Cutive Mono', monospace;
+  color: #35afce;
+  background-color: #e0e4e5;
+}
+
+
+.logo {
+  width: 101px;
+}
+
+.top-buffer {
+  margin-top:20px;
+}
+
+.figure-caption, .btn-default{
+    color:#35afce;
+
+}
