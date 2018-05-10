@@ -3,10 +3,11 @@ body{
   color: #35afce;
   background-color: #e0e4e5;
 }
+.logo {  width: 101px;
+}
 
-
-.logo {
-  width: 101px;
+.londonone {
+  width: 100%;
 }
 
 .top-buffer {
